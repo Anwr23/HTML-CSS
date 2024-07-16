@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Poppins:wght@100;200&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background: rgb(231,239,249);
+    background: linear-gradient(85deg, rgba(231,239,249,1) 32%, rgba(255,255,255,1) 62%);
+
+}
+
+
+.logo {
+    text-decoration: none;
+    color: #010240;
+}
+
+.navbar {
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.navbar ul li::after {
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #010240;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after {
+    width: 100%;
+}
+
+.head {
+    height: 300px;
+    background-image: url(img/ccard.jpg);
+    background-size: cover;
+}
+
+.head h1 {
+    font-size: 50px;
+    padding-top: 170px;
+    color: #eef3fb;
+}
+
+.phone {
+    background-color: #010240;
+    width: 100%;
+    margin-bottom: -100px;
+    padding-top: 80px;
+}
+
+.phone_sides {
+    background-color: #010240;
+}
+
+.phone h1 {
+    color: #e7eff9;
+}
+.phone p {
+    color: #e7eff9;
+}
+.phone h3 {
+    color: #e7eff9;
+}
+
+.application {
+    width: 60%;
+}
+
+.foot {
+
+    background-image: url(img/darkfoot.jpg);
+    background-size: cover;
+    height: 450px;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.ourcontact {
+    background-color: #010240;
+    width: 50%;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 20%;
+    padding-top: 20px;
+}
+
+.foot h3, p {
+    color: #e7eff9;
+
+}
