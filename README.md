@@ -1,2 +1,3 @@
-Сверстанные мною макеты
-HTML+CSS/Bootstrap?scss+JS+React
+Сверстанные мною макеты.
+Были использованы
+HTML+CSS/Bootstrap/scss+JS+React
