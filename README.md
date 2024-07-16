@@ -8,7 +8,13 @@ HTML+CSS/Bootstrap/scss+JS+React
 ![Lifeball](https://github.com/user-attachments/assets/f2035005-6eb1-407a-a967-41dde772bb35)
 ![AboutMe](https://github.com/user-attachments/assets/dff040e3-4a62-417a-a8e2-19c5e2736fd2)
 
+
+
+
+                                                                                    
+
 Скриншоты fashion-react страницы
+                                                                     
 ![photo_3_2024-07-16_17-05-57](https://github.com/user-attachments/assets/05e03575-390d-4530-8b5d-63d50111d64e)
 ![photo_2_2024-07-16_17-05-57](https://github.com/user-attachments/assets/263020ee-a7ea-4b84-aca0-c1ae81a4374e)
 ![photo_7_2024-07-16_17-05-57](https://github.com/user-attachments/assets/aacd35c4-da80-49fc-a3cb-2e7d90f3aca1)
