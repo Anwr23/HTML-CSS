@@ -4,7 +4,6 @@ HTML+CSS/Bootstrap/scss+JS+React
 
 
 Скриншоты некоторых работ:
-![AboutMe(Responsive)](https://github.com/user-attachments/assets/d08129a9-8eeb-41e3-b5dc-0a57d8e88b31)
 ![WAYUP](https://github.com/user-attachments/assets/e43d9751-2461-4f0e-9aee-4ad29632bab5)
 ![Lifeball](https://github.com/user-attachments/assets/f2035005-6eb1-407a-a967-41dde772bb35)
 ![AboutMe](https://github.com/user-attachments/assets/dff040e3-4a62-417a-a8e2-19c5e2736fd2)
