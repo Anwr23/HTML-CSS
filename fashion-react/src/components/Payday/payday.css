@@ -1,0 +1,87 @@
+.Payday {
+    background: linear-gradient(1.32deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+    display: flex;
+    justify-content: center; 
+    align-items: center;           
+}
+
+.payday-content {
+    display: flex;        
+    justify-content: space-between; 
+    align-items: center;  
+    gap: 62px;             
+    width: 100%;             
+}
+
+.payday_text {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;    
+    max-width: 684px;    
+}
+
+.payday_text-title {
+    padding-top: 128px;
+    font-size: 111.61px;
+    font-weight: 900;
+    line-height: 137.19px;
+}
+
+.payday_text-desc {
+    font-size: 36.04px;
+    font-weight: 500;
+    line-height: 52.32px;
+    letter-spacing: -0.02em;
+}
+
+.payday_text-deadline {
+    font-size: 36.04px;
+    font-weight: 700;
+    line-height: 52.32px;
+    letter-spacing: 0.02em;
+}
+
+.payday_btn-wrapper {
+    display: flex;
+    align-items: center;
+    column-gap: 34px;
+    padding: 31px 200px 51px 0px;
+}
+
+.payday_btn {
+    padding: 18px 40px;
+    background: #000;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: -0.05em;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.highlight {
+    position: relative;
+    display: inline-block;
+}
+
+.highlight::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -12px;
+    bottom: 0px;
+    left: -40px;
+    right: -150px;
+    background-color: #fff;
+    transform: rotate(-2deg);
+}
+
+.highlight--yellow::before {
+    background-color: var(--yellow);
+    right: -110px;
+}
+
+.highlight span {
+    position: relative;
+}

@@ -1,0 +1,59 @@
+.footer {
+    background-color: #000;
+}
+
+.footer_content {
+    display: flex;
+    column-gap: 400px;
+}
+
+.footer_content-fashion {
+    padding: 119px 0 177px 100px;
+    width: 415px;
+}
+
+.footer_content-fashion p {
+    width: 400px;
+}
+
+.footer_content-fashion h3 {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.03em;
+    padding-bottom: 32px;
+    color: #fff;
+}
+ 
+
+h4 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #D9D9D9;
+    padding-bottom: 32px;
+
+}
+
+p {
+    color: #8E8E8E;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    padding-bottom: 32px;
+    width: 200px;
+    
+}
+
+.messengers {
+    display: flex;
+    column-gap: 20px;
+}
+
+.footer_content-links {
+    display: flex;
+    column-gap: 0px;
+    padding: 125px 0 115px 0;
+}

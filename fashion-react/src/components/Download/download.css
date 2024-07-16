@@ -1,0 +1,38 @@
+.Download {
+    margin: 220px;
+}
+
+.download_content {
+    display: flex;        
+    justify-content: space-between; 
+    align-items: center; 
+    gap: 80px;         
+    width: 100%;             
+}
+
+.download_text {
+    max-width: 507px;
+    padding-top: 181px;
+    padding-bottom: 147px;
+}
+
+.download_title {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 72px;
+    letter-spacing: 0.06em;
+    padding-bottom: 41px;
+}
+
+.download_desc {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: -0.04em;
+    padding-bottom: 65px;
+}
+
+.download_links {
+    display: flex;
+    justify-content: space-between;
+}
